@@ -1,5 +1,5 @@
 # bonita-adldap_sync
-Bonita BPM 6.5.X/7.0.X Active Directory / LDAP Synchronization<br/>
+Active Directory / LDAP Synchronization for Bonita BPM 6.5.X/7.0.X Community Edition<br/>
 
 Bonita Active Directory Sinchronization process.<br/>
 FEATURES:
@@ -12,7 +12,7 @@ FEATURES:
 -Configurable Group recreation: with/without full path, with regex....<br/>
 -Single instance, doesn't fill up the archive process with tons of process.<br/>
 -No foreign references, only standard ones. Doesn't require external storage.<br/>
--Tested both on Bonita BPM 6.5.1 and Bonita 7.0
+-Tested both on Bonita BPM 6.5.1 and Bonita 7.0 Community version.
 <br/>
 ## Install
 Import the .bos file in Bonita Editor, configure all the variables on the process and run it.<br/>
