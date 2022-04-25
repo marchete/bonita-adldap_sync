@@ -1,5 +1,6 @@
 # bonita-adldap_sync
 Active Directory / LDAP Synchronization for Bonita BPM 6.5.X/7.0.X Community Edition<br/>
+I no longer work with Bonita BPM, so it's archived. Feel free to fork.
 
 Bonita Active Directory Sinchronization process.<br/>
 FEATURES:
